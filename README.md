@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Uneweb-blue)
+[](https://img.shields.io/badge/Uneweb-blue)
 
 # Project Name
 
@@ -17,6 +17,7 @@ Additional description about the project and its features.
 ## Live Demo
 
 [Live Demo Link](https://jessicazambranocg.github.io/ActiveLearningBasicDomManipulation/)
+
 
 ## Getting Started
 
@@ -38,14 +39,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
 
 👤 **Jessica Coromoto Zambrano de Mercado**
 
 - GitHub: [@JessicaZambranoCG](https://github.com/JessicaZambranoCG)
-
 
 ## 🤝 Contributing
 
